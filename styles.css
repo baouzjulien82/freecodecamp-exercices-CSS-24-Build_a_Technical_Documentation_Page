@@ -115,6 +115,10 @@ code {
     width: 100%;
   }
   
+  .main-section {
+    scroll-margin-left: 330px; /* décale l’ancre pour respecter le layout */
+}
+  
   #navbar li {
     padding-left: 8px;
   }
