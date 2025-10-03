@@ -1,1 +1,1 @@
-Exercice terminé à 90 % qques bugs à fixer.
+<strong>RESPONSIVE DESIGN</strong> - <em>Build_a_Technical_Documentation_Page</em> : 
